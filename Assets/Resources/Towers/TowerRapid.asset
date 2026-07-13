@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5136c58bd7ea13743a11e3c16cee7207, type: 3}
+  m_Name: TowerRapid
+  m_EditorClassIdentifier: Assembly-CSharp::TowerConfig
+  towerId: TowerRapid
+  displayName: TowerRapid
+  icon: {fileID: 0}
+  prefab: {fileID: 7383863878343001414, guid: 21b292c8c7697724e8684c86703bfb5e, type: 3}
+  projectilePrefab: {fileID: 2846834534390568461, guid: c880d895f6fe13b48970f87d09c3d000,
+    type: 3}
+  cost: 30
+  range: 3
+  damage: 3
+  fireRate: 3.5
+  projectileSpeed: 9
+  splashRadius: 0
+  targeting: 1
+  metaUnlockTier: 0
